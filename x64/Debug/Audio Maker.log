@@ -1,0 +1,6 @@
+﻿  Audio Maker.cpp
+D:\SH pc\바탕 화면\Projects\Audio Maker\audio.h(445,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SH pc\바탕 화면\Projects\Audio Maker\audio.h(454,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SH pc\바탕 화면\Projects\Audio Maker\audio.h(475,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SH pc\바탕 화면\Projects\Audio Maker\audio.h(484,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Audio Maker.vcxproj -> D:\SH pc\바탕 화면\Projects\Audio Maker\x64\Debug\Audio Maker.exe
